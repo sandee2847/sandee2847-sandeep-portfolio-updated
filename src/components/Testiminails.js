@@ -21,7 +21,10 @@ const Testiminails = () => {
           <SwiperSlide className="testimonial-col-01">
             <div className="media">
               <div className="img">
-                <img src="static/img/team-1.jpg" alt="image" />
+                <img
+                  src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*U4gZLnRtHEeJuc6tdVLwPw.png"
+                  alt="image"
+                />
               </div>
               <div className="media-body p-25px-l">
                 <p>
