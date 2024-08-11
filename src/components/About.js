@@ -89,7 +89,7 @@ const About = () => {
               <div className="btn-bar">
                 <a
                   className="m-btn m-btn-theme"
-                  href="https://docs.google.com/document/d/1zT9sTqI0La0b3eODLNyWtwv3jUtRfSw9sLEevqUUwbg/edit?usp=sharing"
+                  href="https://drive.google.com/file/d/1ejhKLp0nFzNOcGiuorBOnpCD3QgwA2Hp/view?usp=sharing"
                 >
                   Download CV
                 </a>
