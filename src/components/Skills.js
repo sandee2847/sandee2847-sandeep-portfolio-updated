@@ -13,8 +13,8 @@ const Skills = () => {
             <div className="section-title">
               <h3 className="dark-color text-uppercase">My Skills</h3>
               <p className="text-uppercase small">
-                I'm a MERN stack developer with 3 years of experience at GYPRC
-                PVT. LTD.
+                I'm a MERN stack developer with 3.5 years of experience at
+                IDesign.market PVT. LTD.
               </p>
             </div>
           </div>
@@ -104,23 +104,23 @@ const Skills = () => {
                 </div>
               </div>
               <div className="skill-lt">
-                <h6 className="dark-color">Redux</h6>
+                <h6 className="dark-color">React Native</h6>
                 <div className="skill-bar">
                   <div
                     className="skill-bar-in theme-bg"
                     role="progressbar"
-                    aria-valuenow={87}
+                    aria-valuenow={89}
                     aria-valuemin={0}
                     aria-valuemax={100}
                   >
-                    <span>87%</span>
+                    <span>75%</span>
                   </div>
                 </div>
               </div>
             </div>
             <div className="col-lg-6 col-12">
               <div className="skill-lt">
-                <h6 className="dark-color">Redux-Thunk</h6>
+                <h6 className="dark-color">Redux</h6>
                 <div className="skill-bar">
                   <div
                     className="skill-bar-in theme-bg"
@@ -254,7 +254,7 @@ const Skills = () => {
                     <i className="fas fa-flag" />
                   </div> */}
                   <div className="media-body">
-                  <h5>Swagger (Api's Documentation)</h5>
+                    <h5>Swagger (Api's Documentation)</h5>
                   </div>
                 </div>
               </div>

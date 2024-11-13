@@ -7,7 +7,7 @@ const About = () => {
             <div className="section-title">
               <h3 className="dark-color text-uppercase">ABOUT ME</h3>
               <p className="text-uppercase small">
-                I'm a MERN stack developer with 3 years of experience at GYPRC
+                I'm a MERN stack developer with 3.5 years of experience at IDesign.market
                 PVT. LTD.
                 {/* A Lead UX &amp; UI designer based in Canada */}
               </p>
@@ -39,12 +39,12 @@ const About = () => {
               <h4>I'M Sandeep Sharma</h4>
               <h6>
                 <span className="theme-color">Mern Stack</span> Developer,
-                working in <span className="theme-color">GYPRC Pvt. Ltd.</span>
+                working in <span className="theme-color">IDesign.market Pvt. Ltd.</span>
               </h6>
               <p>
                 Experienced MERN stack developer with a strong background in
                 building scalable web applications. Skilled in MongoDB,
-                Express.js, React, and Node.js to create efficient and dynamic
+                Express.js, React, React Native, and Node.js to create efficient and dynamic
                 solutions. Adept at problem-solving and delivering high-quality
                 code in fast-paced environments.
               </p>
@@ -89,7 +89,7 @@ const About = () => {
               <div className="btn-bar">
                 <a
                   className="m-btn m-btn-theme"
-                  href="https://drive.google.com/file/d/1ejhKLp0nFzNOcGiuorBOnpCD3QgwA2Hp/view?usp=sharing"
+                  href="https://docs.google.com/document/d/1VLmQLH_RhjnJsbdv4W96-48Bt_AKKiLU6_X0_0EG_bI/edit?usp=sharing"
                 >
                   Download CV
                 </a>

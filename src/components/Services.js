@@ -7,7 +7,7 @@ const Services = () => {
             <div className="section-title">
               <h3 className="dark-color text-uppercase">My Services</h3>
               <p className="text-uppercase small">
-                I'm a MERN stack developer with 3 years of experience at GYPRC
+                I'm a MERN stack developer with 3.5 years of experience at IDesign.market
                 PVT. LTD.
               </p>
             </div>

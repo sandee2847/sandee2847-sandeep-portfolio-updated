@@ -10,8 +10,8 @@ const Testiminails = () => {
             <div className="section-title">
               <h3 className="dark-color text-uppercase">Experience</h3>
               <p className="text-uppercase small">
-                I'm a MERN stack developer with 3 years of experience at GYPRC
-                PVT. LTD.
+                I'm a MERN stack developer with 3.5 years of experience at
+                IDesign.market PVT. LTD.
               </p>
             </div>
           </div>
@@ -61,37 +61,11 @@ const Testiminails = () => {
                   <h6 className="font-alt dark-color font-w-600">
                     Software Engineer (IDesign.market)
                   </h6>
-                  <span>08/2021 - 06/2024</span>
+                  <span>08/2021 - 10/2024</span>
                 </div>
               </div>
             </div>
           </SwiperSlide>
-          {/* / */}
-          {/* testimonials */}
-          <SwiperSlide className="testimonial-col-01">
-            <div className="media">
-              <div className="img">
-                <img
-                  src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*U4gZLnRtHEeJuc6tdVLwPw.png"
-                  alt="image"
-                />
-              </div>
-              <div className="media-body p-25px-l">
-                <p>
-                  Working as a MERN stack developer, specializing in building
-                  scalable web applications with MongoDB, Express.js, React, and
-                  Node.js.
-                </p>
-                <div className="tc-info">
-                  <h6 className="font-alt dark-color font-w-600">
-                    Mern Stack Developer (GYPRC Pvt. Ltd.)
-                  </h6>
-                  <span>06/2023 - Present</span>
-                </div>
-              </div>
-            </div>
-          </SwiperSlide>
-          {/* / */}
           <div className="owl-dots"></div>
         </Swiper>
       </div>

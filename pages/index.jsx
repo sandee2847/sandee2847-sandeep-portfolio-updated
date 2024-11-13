@@ -98,9 +98,9 @@ const Index1 = () => {
                     I Am Passionate <TypingAnimation />
                   </h2>
                   <p>
-                    <b>MERN stack developer</b> with 3 years of experience
+                    <b>MERN stack developer</b> with 3.5 years of experience
                     specializing in building and maintaining robust web
-                    applications using MongoDB, Express, React, and Node.js.
+                    applications using MongoDB, Express, React, React Native, and Node.js.
                     Skilled in Agile methodology, proficient in creating complex
                     features such as Gantt charts and advanced file management
                     systems, and experienced in freelancing and collaborative
